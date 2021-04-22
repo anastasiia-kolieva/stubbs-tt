@@ -1,23 +1,20 @@
 {
   "files": {
-    "main.css": "/anastasiia-kolieva/stubbs-tt/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/anastasiia-kolieva/stubbs-tt/static/js/main.f5dc6f87.chunk.js",
-    "main.js.map": "/anastasiia-kolieva/stubbs-tt/static/js/main.f5dc6f87.chunk.js.map",
-    "runtime-main.js": "/anastasiia-kolieva/stubbs-tt/static/js/runtime-main.b91f94d2.js",
-    "runtime-main.js.map": "/anastasiia-kolieva/stubbs-tt/static/js/runtime-main.b91f94d2.js.map",
-    "static/js/2.3e52c9b8.chunk.js": "/anastasiia-kolieva/stubbs-tt/static/js/2.3e52c9b8.chunk.js",
-    "static/js/2.3e52c9b8.chunk.js.map": "/anastasiia-kolieva/stubbs-tt/static/js/2.3e52c9b8.chunk.js.map",
-    "static/js/3.88d3f352.chunk.js": "/anastasiia-kolieva/stubbs-tt/static/js/3.88d3f352.chunk.js",
-    "static/js/3.88d3f352.chunk.js.map": "/anastasiia-kolieva/stubbs-tt/static/js/3.88d3f352.chunk.js.map",
+    "main.css": "/anastasiia-kolieva/stubbs-tt/static/css/main.e9ffc3ce.chunk.css",
+    "main.js": "/anastasiia-kolieva/stubbs-tt/static/js/main.711ba409.chunk.js",
+    "main.js.map": "/anastasiia-kolieva/stubbs-tt/static/js/main.711ba409.chunk.js.map",
+    "runtime-main.js": "/anastasiia-kolieva/stubbs-tt/static/js/runtime-main.b070e7fc.js",
+    "runtime-main.js.map": "/anastasiia-kolieva/stubbs-tt/static/js/runtime-main.b070e7fc.js.map",
+    "static/js/2.ed27ec32.chunk.js": "/anastasiia-kolieva/stubbs-tt/static/js/2.ed27ec32.chunk.js",
+    "static/js/2.ed27ec32.chunk.js.map": "/anastasiia-kolieva/stubbs-tt/static/js/2.ed27ec32.chunk.js.map",
     "index.html": "/anastasiia-kolieva/stubbs-tt/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/anastasiia-kolieva/stubbs-tt/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.3e52c9b8.chunk.js.LICENSE.txt": "/anastasiia-kolieva/stubbs-tt/static/js/2.3e52c9b8.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/anastasiia-kolieva/stubbs-tt/static/media/logo.6ce24c58.svg"
+    "static/css/main.e9ffc3ce.chunk.css.map": "/anastasiia-kolieva/stubbs-tt/static/css/main.e9ffc3ce.chunk.css.map",
+    "static/js/2.ed27ec32.chunk.js.LICENSE.txt": "/anastasiia-kolieva/stubbs-tt/static/js/2.ed27ec32.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b91f94d2.js",
-    "static/js/2.3e52c9b8.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.f5dc6f87.chunk.js"
+    "static/js/runtime-main.b070e7fc.js",
+    "static/js/2.ed27ec32.chunk.js",
+    "static/css/main.e9ffc3ce.chunk.css",
+    "static/js/main.711ba409.chunk.js"
   ]
 }
