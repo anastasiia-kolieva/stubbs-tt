@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+.navigation {
+    padding-top: 66px;
+}
+
+.navigation__list {
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 8px 57px;
+}
+
+.navigation__item {
+    padding: 8px 24px;
+}
+
+.navigatin__item-active {}
+
+.navigatin__item__link {
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;
+    color: #666666;
+}
