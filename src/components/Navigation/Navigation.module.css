@@ -14,9 +14,22 @@
     padding: 8px 24px;
 }
 
-/* .navigatin__item-active {} */
+.navigation__item:hover {
+    font-weight: bold;
+    color: #527AAA;
+    background: #E0E0E0;
+    border-radius: 2px;
+}
 
-.navigatin__item__link {
+.navigation__itemActive {
+    font-weight: bold;
+    color: #527AAA;
+    background: #CFE5FF;
+    border-radius: 2px;
+    padding: 8px 24px;
+}
+
+.navigation__item__link {
     font-family: 'Lato', sans-serif;
     font-style: normal;
     font-weight: normal;
