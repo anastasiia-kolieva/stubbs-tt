@@ -2,7 +2,7 @@
   "name": "stubbs-tt",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/anastasiia-kolieva/stubbs-tt",
+  "homepage": "https://anastasiia-kolieva.github.io/stubbs-tt",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
