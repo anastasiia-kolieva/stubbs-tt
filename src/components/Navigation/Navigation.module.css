@@ -2,15 +2,21 @@
 
 .navigation {
     padding-top: 66px;
+    margin-bottom: 60px;
 }
 
 .navigation__list {
+    width: 1860px;
     display: flex;
     flex-wrap: nowrap;
+    overflow-x: scroll;
+    scroll-behavior: smooth;
     padding: 8px 57px;
 }
 
 .navigation__item {
+    width: 186px;
+    text-align: center;
     padding: 8px 24px;
 }
 
@@ -22,14 +28,18 @@
 }
 
 .navigation__itemActive {
+    width: 186px;
     font-weight: bold;
     color: #527AAA;
     background: #CFE5FF;
     border-radius: 2px;
+    overflow-x: visible;
     padding: 8px 24px;
+    text-align: center;
 }
 
 .navigation__item__link {
+    display: inline-block;
     font-family: 'Lato', sans-serif;
     font-style: normal;
     font-weight: normal;
