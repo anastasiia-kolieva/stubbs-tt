@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/stubbs-tt/static/css/main.439055a8.chunk.css",
-    "main.js": "/stubbs-tt/static/js/main.f8a36ae6.chunk.js",
-    "main.js.map": "/stubbs-tt/static/js/main.f8a36ae6.chunk.js.map",
+    "main.css": "/stubbs-tt/static/css/main.889b2ca3.chunk.css",
+    "main.js": "/stubbs-tt/static/js/main.2c26726f.chunk.js",
+    "main.js.map": "/stubbs-tt/static/js/main.2c26726f.chunk.js.map",
     "runtime-main.js": "/stubbs-tt/static/js/runtime-main.c87ae1e7.js",
     "runtime-main.js.map": "/stubbs-tt/static/js/runtime-main.c87ae1e7.js.map",
-    "static/js/2.8b0618ef.chunk.js": "/stubbs-tt/static/js/2.8b0618ef.chunk.js",
-    "static/js/2.8b0618ef.chunk.js.map": "/stubbs-tt/static/js/2.8b0618ef.chunk.js.map",
+    "static/js/2.45575095.chunk.js": "/stubbs-tt/static/js/2.45575095.chunk.js",
+    "static/js/2.45575095.chunk.js.map": "/stubbs-tt/static/js/2.45575095.chunk.js.map",
     "index.html": "/stubbs-tt/index.html",
-    "static/css/main.439055a8.chunk.css.map": "/stubbs-tt/static/css/main.439055a8.chunk.css.map",
-    "static/js/2.8b0618ef.chunk.js.LICENSE.txt": "/stubbs-tt/static/js/2.8b0618ef.chunk.js.LICENSE.txt"
+    "static/css/main.889b2ca3.chunk.css.map": "/stubbs-tt/static/css/main.889b2ca3.chunk.css.map",
+    "static/js/2.45575095.chunk.js.LICENSE.txt": "/stubbs-tt/static/js/2.45575095.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c87ae1e7.js",
-    "static/js/2.8b0618ef.chunk.js",
-    "static/css/main.439055a8.chunk.css",
-    "static/js/main.f8a36ae6.chunk.js"
+    "static/js/2.45575095.chunk.js",
+    "static/css/main.889b2ca3.chunk.css",
+    "static/js/main.2c26726f.chunk.js"
   ]
 }
